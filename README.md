@@ -1,8 +1,10 @@
 # UK_Establishments_NoSQL_db
 
-# Finished Backend Setup & Analysis
+## Finished Backend Setup & Analysis
 
-- Following the instructions below in the "Instructions" section, a MongoDB database was created first in Mongo Compass and then through Jupyter Notebook. Re-running the code will drop the database and start it again in the state necessary for analysis. See [Setup](NoSQL_analysis_starter.ipynb).
+- Following the instructions below in the "Instructions" section, a MongoDB database was created first in Mongo Compass and then through Jupyter Notebook. Re-running the code will drop the database and start it again in the state necessary for analysis. See [Setup](NoSQL_setup_starter.ipynb).
+
+- Click [here](NoSQL_analysis_starter.ipynb)
 
 ## Instructions
 > The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
